@@ -1,6 +1,6 @@
 # Movi – Multimodal Transport Agent
 
-**Multimodal assistant for MoveInSync transport ops**  
+**Multimodal assistant for transport ops**  
 FastAPI • LangGraph • React • SQLite • Deepgram • ElevenLabs • GPT‑4o 
 
 ---
